@@ -10,7 +10,7 @@ using MyCompany.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+//test for commit
 
 builder.Services.AddDbContext<MyCompanyContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSqlConnection")));
