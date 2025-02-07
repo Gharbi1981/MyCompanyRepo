@@ -1,0 +1,6 @@
+# Ignorer les fichiers spécifiques à Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
