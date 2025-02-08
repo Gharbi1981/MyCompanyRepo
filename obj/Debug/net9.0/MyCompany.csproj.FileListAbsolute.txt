@@ -241,3 +241,4 @@ C:\Users\gharb\source\repos\MyCompany\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis
 C:\Users\gharb\source\repos\MyCompany\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\gharb\source\repos\MyCompany\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\gharb\source\repos\MyCompany\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gharb\source\repos\MyCompany\obj\Debug\net9.0\MyCompany.sourcelink.json
